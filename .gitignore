@@ -1,0 +1,14 @@
+# Backend
+backend/bin/
+backend/obj/
+backend/.vs/
+
+# Backend tests
+backend.tests/bin/
+backend.tests/obj/
+
+# Frontend
+frontend/node_modules/
+
+# Editor configs
+.vscode/
